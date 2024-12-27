@@ -1,0 +1,9 @@
+#header{    background-color: #000000;   }
+.logoimg{   height: 70px;   }
+.nav-link{color: rgb(255, 255, 255); text-transform: uppercase;}
+.nav-link:hover{    color: white; transform: scale(1.2); text-shadow: 0 0 30px lightgoldenrodyellow;}
+ 
+#card{   background-color: #000;}
+.card-section{    background-color: rgb(240, 240, 57);}
+.cardimg{ height: 400px; width: 240px;}
+.btn1{ font-size: 25px; margin-top: 160px; margin-bottom: 30px; padding: 15px;}
